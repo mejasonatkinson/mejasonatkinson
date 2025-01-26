@@ -23,7 +23,6 @@ My hobbies include:
     - 🌌 Star Wars
     - 🚀 Star Trek
 - Reading books by:
-    - 📖 Neil Gaiman
     - 🛸 Douglas Adams
 - Building:
     - 🧱 Lego
@@ -31,9 +30,9 @@ My hobbies include:
 📫 How to reach me: me@jasonatkinson.co.uk
 
 😄 Pronouns: He/Him, They/Them
-
+<!--
 ⚡ Fun fact: I'm a huge fan of musicals! 🎶 Including Wicked, Les Misérables, and Hamilton.
-
+-->
 <!--
 **mejasonatkinson/mejasonatkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
